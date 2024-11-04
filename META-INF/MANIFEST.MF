@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: 3akat1k client
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2024-09-23T15:32:22+0200
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
